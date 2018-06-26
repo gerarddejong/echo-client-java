@@ -5,7 +5,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.nio.charset.StandardCharsets;
 
-class DatagramClient
+public class DatagramClient
 {
     public static void main(String args[]) throws Exception
     {
